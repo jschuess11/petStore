@@ -1,0 +1,35 @@
+.nav-item {
+    list-style-type: none;
+}
+
+.btn-color {
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.sidenav {
+    height: 100%;
+    width: 110px;
+    position: fixed;
+    z-index: 1;
+    padding-top: 50%;
+    top: auto;
+    left: auto;
+    overflow-x: hidden;
+    background-image: url(./imgs/texture.jpg)
+  }
+
+  .main-content {
+    padding-left: 120px;
+    padding-top: 40px;
+  }
+
+  header {
+    padding-left: 120px;
+    position: fixed;
+    z-index: 1;
+    background-color:cornflowerblue;
+    height: 40px;
+    color: white;
+    width: 100%;
+  }
