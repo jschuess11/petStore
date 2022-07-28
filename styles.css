@@ -34,3 +34,16 @@
     color: white;
     width: 100%;
   }
+
+  body {
+    background-color:lightgrey
+  }
+
+  .card-img-top {
+    height: 100px;
+    width: 100px;
+  }
+
+  .card {
+    align-items: center;
+  }
