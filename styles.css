@@ -25,6 +25,10 @@
     padding-top: 40px;
   }
 
+  footer {
+    text-align: center;
+  }
+
   header {
     padding-left: 120px;
     position: fixed;
@@ -46,4 +50,5 @@
 
   .card {
     align-items: center;
+    padding: 10px;
   }
