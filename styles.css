@@ -6,6 +6,10 @@
   color: white !important;
 }
 
+.hours {
+  list-style: none;
+  
+}
 
 .sidenav {
     height: 100%;
@@ -37,7 +41,7 @@
   footer {
     text-align: center;
     position;
-    padding-left: 120px;
+
     bottom: 0;
     width: 100%;
     height: 2.5rem;  
