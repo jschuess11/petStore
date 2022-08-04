@@ -3,43 +3,43 @@ var shop = [
       title: 'Yogi Bear',
       image: './imgs/yogi.png',
       price: '$15,000'
-      description: 'Not good around unattended food'
+      
     },
     {
       title: 'Santa\'s Little Helper',
       image: './imgs/santashelper.png',
       price: '$25,000'
-      description: 
+      
     },
     {
       title: 'SPECIAL: 2 Stupid Dogs for price of 1',
       image: './imgs/2stupiddogs.png',
       price: '$1000'
-      description:
+      
     },
     {
       title: 'Tom',
       image: './imgs/tom.png',
       price: '$20,000'
-      description:
+      
     },
     {
       title: 'Dino',
       image: './imgs/dino.png',
       price: '$12,000'
-      description:
+      
     },
     {
       title: 'Bugs Bunny',
       image: './imgs/bugsbunny.png',
       price: '$50,000'
-      description
+      
     },
     {
       title: 'Crush',
       image: '/imgs/Crush.png',
       price: '$30,000'
-      description
+      
     },
     
     ]
