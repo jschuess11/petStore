@@ -24,7 +24,7 @@
     background-image: url(./imgs/texture.jpg)
   }
 
-  .main-content {
+  .footer {
     padding-left: 120px;
     padding-top: 40px;
   }
@@ -45,9 +45,9 @@
     margin-right: auto;
   }
 
-  p {
+  /* p {
     text-align: center;
-  }
+  } */
 
   footer {
     text-align: center;
@@ -70,17 +70,33 @@
 
   body {
     background-color:lightgrey;
-
   }
 
-  .card-img-top {
+  img {
     height: 100px;
     width: 100px;
   }
 
-  .card {
-    align-items: center;
-    padding: 10px;
+  .shop-container{
+    display: flex;
+    direction: column;
+    flex-wrap: wrap;
+    padding-left: 120px;
+    padding-top: 40px;
   }
 
-  
+  .product{
+    width: 25%;
+    height: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 10px;
+    background-color:cornflowerblue;
+}
